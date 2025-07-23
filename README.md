@@ -33,3 +33,6 @@ game reports.**
 
 Note: [MacGamers.net](https://macgamers.net/) is new (and under development) so this list is currently small. You can
 help grow this list by submitting game reports on the website (soon).
+
+Disclaimer: This list is from user-submitted game reports. These games may or may not work for you on your mac and you
+are full responsible for any games that you buy based on this list.
