@@ -26,6 +26,8 @@ game reports.**
 | [Fallout: New Vegas](https://macgamers.org/games/fallout-new-vegas)                                                                                         | Excellent   | Parallels (Windows) (Excellent), CrossOver (Good)                  |
 | [Grand Theft Auto V Legacy](https://macgamers.org/games/grand-theft-auto-v-legacy)                                                                          | Excellent   | CrossOver (Excellent)                                              |
 | [Grim Dawn](https://macgamers.org/games/grim-dawn)                                                                                                          | Excellent   | CrossOver (Excellent)                                              |
+| [Guild Wars 2](https://macgamers.org/games/guild-wars-2)                                                                                                    | Excellent   | CrossOver (Excellent)                                              |
+| [Half-Life 2](https://macgamers.org/games/half-life-2)                                                                                                      | Perfect     | CrossOver (Perfect)                                                |
 | [Heroes of Might & Magic V](https://macgamers.org/games/heroes-of-might-magic-v)                                                                            | Excellent   | Parallels (Windows) (Excellent)                                    |
 | [Heroes® of Might & Magic® III - HD Edition](https://macgamers.org/games/heroes-of-might-magic-iii-hd-edition)                                            | Perfect     | CrossOver (Perfect), Parallels (Windows) (Perfect)                 |
 | [Injustice: Gods Among Us Ultimate Edition](https://macgamers.org/games/injustice-gods-among-us-ultimate-edition)                                           | Excellent   | Parallels (Windows) (Excellent)                                    |
@@ -41,6 +43,7 @@ game reports.**
 | [The Elder Scrolls V: Skyrim Special Edition](https://macgamers.org/games/the-elder-scrolls-v-skyrim-special-edition)                                       | Perfect     | CrossOver (Perfect)                                                |
 | [The Sims™ 4](https://macgamers.org/games/the-sims-4)                                                                                                     | Perfect     | CrossOver (Perfect)                                                |
 | [The Witcher 3: Wild Hunt](https://macgamers.org/games/the-witcher-3-wild-hunt)                                                                             | Good        | CrossOver (Good)                                                   |
+| [Titan Quest Anniversary Edition](https://macgamers.org/games/titan-quest-anniversary-edition)                                                              | Poor        | CrossOver (Poor)                                                   |
 
 
 Note: [MacGamers.org](https://macgamers.org/) is new (and under development) so this list is currently small. You can

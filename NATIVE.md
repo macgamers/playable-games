@@ -14,6 +14,7 @@ game reports.**
 | [Path of Exile](https://macgamers.org/games/path-of-exile)                                                                          | 2025-07-14  |
 | [The Elder Scrolls® Online](https://macgamers.org/games/the-elder-scrolls-online)                                                  | 2025-07-12  |
 | [The Witcher 2: Assassins of Kings Enhanced Edition](https://macgamers.org/games/the-witcher-2-assassins-of-kings-enhanced-edition) | 2025-07-22  |
+| [Valheim](https://macgamers.org/games/valheim)                                                                                      | 2025-07-27  |
 
 
 Note: [MacGamers.org](https://macgamers.org/) is new (and under development) so this list is currently small. You can
