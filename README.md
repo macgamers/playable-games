@@ -44,6 +44,7 @@ game reports.**
 | [The Sims™ 4](https://macgamers.org/games/the-sims-4)                                                                                                     | Perfect     | CrossOver (Perfect)                                                |
 | [The Witcher 3: Wild Hunt](https://macgamers.org/games/the-witcher-3-wild-hunt)                                                                             | Good        | CrossOver (Good)                                                   |
 | [Titan Quest Anniversary Edition](https://macgamers.org/games/titan-quest-anniversary-edition)                                                              | Poor        | CrossOver (Poor)                                                   |
+| [Torchlight: Infinite](https://macgamers.org/games/torchlight-infinite)                                                                                     | Poor        | CrossOver (Poor), Parallels (Windows) (Poor)                       |
 
 
 Note: [MacGamers.org](https://macgamers.org/) is new (and under development) so this list is currently small. You can
