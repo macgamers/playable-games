@@ -11,6 +11,7 @@ game reports.**
 | [Brutal Legend](https://macgamers.org/games/brutal-legend)                                                                          | 2025-07-24  |
 | [Euro Truck Simulator 2](https://macgamers.org/games/euro-truck-simulator-2)                                                        | 2025-07-14  |
 | [Metro 2033 Redux](https://macgamers.org/games/metro-2033-redux)                                                                    | 2025-07-22  |
+| [Northgard](https://macgamers.org/games/northgard)                                                                                  | 2025-07-27  |
 | [Path of Exile](https://macgamers.org/games/path-of-exile)                                                                          | 2025-07-14  |
 | [The Elder Scrolls® Online](https://macgamers.org/games/the-elder-scrolls-online)                                                  | 2025-07-12  |
 | [The Witcher 2: Assassins of Kings Enhanced Edition](https://macgamers.org/games/the-witcher-2-assassins-of-kings-enhanced-edition) | 2025-07-22  |
