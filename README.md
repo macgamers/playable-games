@@ -19,6 +19,7 @@ game reports.**
 | [Brutal Legend](https://macgamers.org/games/brutal-legend)                                                                                                  | Excellent   | Parallels (Windows) (Excellent), CrossOver (Good), Native (Broken) |
 | [Company of Heroes 2](https://macgamers.org/games/company-of-heroes-2)                                                                                      | Excellent   | Parallels (Windows) (Excellent), CrossOver (Broken)                |
 | [Destroy All Humans! 2 - Reprobed](https://macgamers.org/games/destroy-all-humans-2-reprobed)                                                               | Excellent   | CrossOver (Excellent)                                              |
+| [Dishonored](https://macgamers.org/games/dishonored)                                                                                                        | Poor        | Parallels (Windows) (Poor), CrossOver (Broken)                     |
 | [Dungeon Siege III](https://macgamers.org/games/dungeon-siege-iii)                                                                                          | Perfect     | Parallels (Windows) (Perfect)                                      |
 | [Empyrion - Galactic Survival](https://macgamers.org/games/empyrion-galactic-survival)                                                                      | Good        | Parallels (Windows) (Good), CrossOver (Broken)                     |
 | [Fallout 4](https://macgamers.org/games/fallout-4)                                                                                                          | Perfect     | CrossOver (Perfect)                                                |
@@ -37,6 +38,7 @@ game reports.**
 | [Re-Volt](https://macgamers.org/games/re-volt)                                                                                                              | Perfect     | Parallels (Windows) (Perfect), CrossOver (Broken)                  |
 | [Red Dead Redemption 2](https://macgamers.org/games/red-dead-redemption-2)                                                                                  | Perfect     | CrossOver (Perfect)                                                |
 | [Riptide GP: Renegade](https://macgamers.org/games/riptide-gp-renegade)                                                                                     | Perfect     | Parallels (Windows) (Perfect)                                      |
+| [Russian Fishing 4](https://macgamers.org/games/russian-fishing-4)                                                                                          | Good        | CrossOver (Good)                                                   |
 | [Schedule I](https://macgamers.org/games/schedule-i)                                                                                                        | Perfect     | CrossOver (Perfect)                                                |
 | [South Park™: The Fractured But Whole™](https://macgamers.org/games/south-park-the-fractured-but-whole)                                                 | Perfect     | Parallels (Windows) (Perfect)                                      |
 | [South Park™: The Stick of Truth™](https://macgamers.org/games/south-park-the-stick-of-truth)                                                           | Perfect     | Parallels (Windows) (Perfect)                                      |
@@ -44,7 +46,7 @@ game reports.**
 | [The Elder Scrolls V: Skyrim Special Edition](https://macgamers.org/games/the-elder-scrolls-v-skyrim-special-edition)                                       | Perfect     | CrossOver (Perfect)                                                |
 | [The Sims™ 4](https://macgamers.org/games/the-sims-4)                                                                                                     | Perfect     | CrossOver (Perfect)                                                |
 | [The Witcher 3: Wild Hunt](https://macgamers.org/games/the-witcher-3-wild-hunt)                                                                             | Good        | CrossOver (Good)                                                   |
-| [Titan Quest Anniversary Edition](https://macgamers.org/games/titan-quest-anniversary-edition)                                                              | Poor        | CrossOver (Poor)                                                   |
+| [Titan Quest Anniversary Edition](https://macgamers.org/games/titan-quest-anniversary-edition)                                                              | Perfect     | Parallels (Windows) (Perfect), CrossOver (Poor)                    |
 | [Torchlight: Infinite](https://macgamers.org/games/torchlight-infinite)                                                                                     | Poor        | CrossOver (Poor), Parallels (Windows) (Poor)                       |
 
 

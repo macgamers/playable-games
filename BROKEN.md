@@ -8,11 +8,10 @@ game reports.**
 
 | Game                                                                                         | Methods Tested                                   |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------|
-| [Dishonored](https://macgamers.org/games/dishonored)                                         | CrossOver (Broken)                               |
 | [DOOM](https://macgamers.org/games/doom)                                                     | CrossOver (Broken), Parallels (Windows) (Broken) |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess) | Parallels (Windows) (Broken), CrossOver (Broken) |
 | [Mad Max](https://macgamers.org/games/mad-max)                                               | CrossOver (Broken)                               |
-| [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)           | CrossOver (Broken)                               |
+| [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)           | CrossOver (Broken), Parallels (Windows) (Broken) |
 
 
 Note: [MacGamers.org](https://macgamers.org/) is new (and under development) so this list is currently small. You can
