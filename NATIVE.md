@@ -10,6 +10,9 @@ game reports.**
 | [112 Operator](https://macgamers.org/games/112-operator)                                                                            | 2025-08-06  |
 | [Albion Online](https://macgamers.org/games/albion-online)                                                                          | 2025-08-06  |
 | [Bastion](https://macgamers.org/games/bastion)                                                                                      | 2025-08-06  |
+| [Batman: Arkham Asylum Game of the Year Edition](https://macgamers.org/games/batman-arkham-asylum-game-of-the-year-edition-1)       | 2025-08-06  |
+| [Beholder](https://macgamers.org/games/beholder)                                                                                    | 2025-08-06  |
+| [BioShock™ 2 Remastered](https://macgamers.org/games/bioshock-2-remastered)                                                       | 2025-08-06  |
 | [Borderlands 2](https://macgamers.org/games/borderlands-2)                                                                          | 2025-07-22  |
 | [Brutal Legend](https://macgamers.org/games/brutal-legend)                                                                          | 2025-07-24  |
 | [Euro Truck Simulator 2](https://macgamers.org/games/euro-truck-simulator-2)                                                        | 2025-07-14  |
