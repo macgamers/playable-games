@@ -15,6 +15,9 @@ game reports.**
 | [BioShock™ 2 Remastered](https://macgamers.org/games/bioshock-2-remastered)                                                       | 2025-08-06  |
 | [Borderlands 2](https://macgamers.org/games/borderlands-2)                                                                          | 2025-07-22  |
 | [Brutal Legend](https://macgamers.org/games/brutal-legend)                                                                          | 2025-07-24  |
+| [Champions of Regnum](https://macgamers.org/games/champions-of-regnum)                                                              | 2025-08-06  |
+| [Cities: Skylines](https://macgamers.org/games/cities-skylines)                                                                     | 2025-08-07  |
+| [Company of Heroes 2](https://macgamers.org/games/company-of-heroes-2)                                                              | 2025-08-07  |
 | [Euro Truck Simulator 2](https://macgamers.org/games/euro-truck-simulator-2)                                                        | 2025-07-14  |
 | [Metro 2033 Redux](https://macgamers.org/games/metro-2033-redux)                                                                    | 2025-07-22  |
 | [Northgard](https://macgamers.org/games/northgard)                                                                                  | 2025-07-27  |
