@@ -14,6 +14,7 @@ game reports.**
 | [Borderlands: The Pre-Sequel](https://macgamers.org/games/borderlands-the-pre-sequel)        | Native (Broken)                                  |
 | [DOOM](https://macgamers.org/games/doom)                                                     | CrossOver (Broken), Parallels (Windows) (Broken) |
 | [Duke Nukem Forever](https://macgamers.org/games/duke-nukem-forever)                         | CrossOver (Broken), Native (Broken)              |
+| [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                             | CrossOver (Broken)                               |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess) | Parallels (Windows) (Broken), CrossOver (Broken) |
 | [Mad Max](https://macgamers.org/games/mad-max)                                               | CrossOver (Broken)                               |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)           | CrossOver (Broken), Parallels (Windows) (Broken) |
