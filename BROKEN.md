@@ -16,7 +16,6 @@ game reports.**
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                             | CrossOver (Broken)                               |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess) | Parallels (Windows) (Broken), CrossOver (Broken) |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)           | CrossOver (Broken), Parallels (Windows) (Broken) |
-| [State of Decay: YOSE](https://macgamers.org/games/state-of-decay-yose)                      | CrossOver (Broken)                               |
 | [Street Fighter™ 6](https://macgamers.org/games/street-fighter-6)                          | CrossOver (Broken)                               |
 
 
