@@ -18,6 +18,7 @@ game reports.**
 | [Champions of Regnum](https://macgamers.org/games/champions-of-regnum)                                                              | 2025-08-06  |
 | [Cities: Skylines](https://macgamers.org/games/cities-skylines)                                                                     | 2025-08-07  |
 | [Company of Heroes 2](https://macgamers.org/games/company-of-heroes-2)                                                              | 2025-08-07  |
+| [Duke Nukem Forever](https://macgamers.org/games/duke-nukem-forever)                                                                | 2025-08-08  |
 | [Euro Truck Simulator 2](https://macgamers.org/games/euro-truck-simulator-2)                                                        | 2025-07-14  |
 | [Metro 2033 Redux](https://macgamers.org/games/metro-2033-redux)                                                                    | 2025-07-22  |
 | [Northgard](https://macgamers.org/games/northgard)                                                                                  | 2025-07-27  |
