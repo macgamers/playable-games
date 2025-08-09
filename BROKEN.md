@@ -19,6 +19,8 @@ game reports.**
 | [Neverwinter](https://macgamers.org/games/neverwinter)                                              | **CrossOver** *Broken*                                   |
 | [RAGE](https://macgamers.org/games/rage)                                                            | **CrossOver** *Broken*                                   |
 | [Street Fighter™ 6](https://macgamers.org/games/street-fighter-6)                                 | **CrossOver** *Broken*                                   |
+| [Wolfenstein: The New Order](https://macgamers.org/games/wolfenstein-the-new-order)                 | **CrossOver** *Broken*                                   |
+| [Wolfenstein: The Old Blood](https://macgamers.org/games/wolfenstein-the-old-blood)                 | **CrossOver** *Broken*                                   |
 
 
 Note: [MacGamers.org](https://macgamers.org/) is new (and under development) so this list is currently small. You can
