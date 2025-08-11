@@ -68,6 +68,9 @@ game reports.**
 | [Titan Quest Anniversary Edition](https://macgamers.org/games/titan-quest-anniversary-edition)                                                                         | Perfect     | **Parallels (Windows)** *Perfect*, **CrossOver** *Poor*                          |
 | [Torchlight: Infinite](https://macgamers.org/games/torchlight-infinite)                                                                                                | Poor        | **CrossOver** *Poor*, **Parallels (Windows)** *Poor*                             |
 | [Train Simulator Classic 2024](https://macgamers.org/games/train-simulator-classic-2024)                                                                               | Perfect     | **CrossOver** *Perfect*                                                          |
+| [Tropico 3](https://macgamers.org/games/tropico-3)                                                                                                                     | Excellent   | **CrossOver** *Excellent*                                                        |
+| [Tropico 4](https://macgamers.org/games/tropico-4)                                                                                                                     | Excellent   | **CrossOver** *Excellent*                                                        |
+| [Tropico 5](https://macgamers.org/games/tropico-5)                                                                                                                     | Excellent   | **CrossOver** *Excellent*                                                        |
 
 
 Note: [MacGamers.org](https://macgamers.org/) is new (and under development) so this list is currently small. You can
