@@ -14,6 +14,7 @@ game reports.**
 | [Ashes of the Singularity: Escalation](https://macgamers.org/games/ashes-of-the-singularity-escalation) | **CrossOver** *Broken*                                   |
 | [DOOM](https://macgamers.org/games/doom)                                                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                                        | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
+| [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                        | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [ENDLESS™ Legend 2](https://macgamers.org/games/endless-legend-2)                                     | **CrossOver** *Broken*                                   |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)            | **Parallels (Windows)** *Broken*, **CrossOver** *Broken* |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                      | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
