@@ -18,7 +18,8 @@ game reports.**
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                        | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)            | **Parallels (Windows)** *Broken*, **CrossOver** *Broken* |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                      | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
-| [Monster Hunter Rise: Sunbreak Demo](https://macgamers.org/games/monster-hunter-rise-sunbreak-demo)     | **CrossOver** *Broken*                                   |
+| [Mist Survival](https://macgamers.org/games/mist-survival)                                              | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
+| [Monster Hunter Rise: Sunbreak Demo](https://macgamers.org/games/monster-hunter-rise-sunbreak-demo)     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Street Fighter™ 6](https://macgamers.org/games/street-fighter-6)                                     | **CrossOver** *Broken*                                   |
 | [WRC 7 FIA World Rally Championship](https://macgamers.org/games/wrc-7-fia-world-rally-championship)    | **CrossOver** *Broken*                                   |
 
