@@ -12,7 +12,9 @@ game reports.**
 | [Age of Wonders III](https://macgamers.org/games/age-of-wonders-iii)                                    | **Native** *Broken*                                      |
 | [Anna - Extended Edition](https://macgamers.org/games/anna-extended-edition)                            | **Native** *Broken*                                      |
 | [Ashes of the Singularity: Escalation](https://macgamers.org/games/ashes-of-the-singularity-escalation) | **CrossOver** *Broken*                                   |
+| [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                           | **Parallels (Windows)** *Broken*                         |
 | [DOOM](https://macgamers.org/games/doom)                                                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
+| [Dragon Age™ Inquisition](https://macgamers.org/games/dragon-age-inquisition)                         | **Parallels (Windows)** *Broken*                         |
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                                        | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                        | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [ENDLESS™ Legend 2](https://macgamers.org/games/endless-legend-2)                                     | **CrossOver** *Broken*                                   |
