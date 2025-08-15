@@ -8,15 +8,15 @@ game reports.**
 
 | Game                                                                                                    | Methods Tested                                           |
 |---------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| [12 is Better Than 6](https://macgamers.org/games/12-is-better-than-6)                                  | **Native** *Broken*                                      |
 | [Anna - Extended Edition](https://macgamers.org/games/anna-extended-edition)                            | **Native** *Broken*                                      |
 | [Ashes of the Singularity: Escalation](https://macgamers.org/games/ashes-of-the-singularity-escalation) | **CrossOver** *Broken*                                   |
 | [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                           | **Parallels (Windows)** *Broken*                         |
 | [DOOM](https://macgamers.org/games/doom)                                                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
-| [Dragon Age™ Inquisition](https://macgamers.org/games/dragon-age-inquisition)                         | **Parallels (Windows)** *Broken*, **CrossOver** *Broken* |
+| [Dragon Age™ Inquisition](https://macgamers.org/games/dragon-age-inquisition)                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                                        | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                        | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
-| [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)            | **Parallels (Windows)** *Broken*, **CrossOver** *Broken* |
+| [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                             | **CrossOver** *Broken*                                   |
+| [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)            | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                      | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Mist Survival](https://macgamers.org/games/mist-survival)                                              | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Monster Hunter Rise: Sunbreak Demo](https://macgamers.org/games/monster-hunter-rise-sunbreak-demo)     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
