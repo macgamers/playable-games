@@ -1,7 +1,7 @@
-# Unplayable Windows Games on Apple Silicon
+# Windows Games Unplayable on macOS
 
-Windows games that so far are unplayable on Apple silicon macs using CrossOver, Parallels, and other
-methods.
+Windows games that are currently unplayable on macOS using CrossOver, Parallels, and other methods, based on user
+reports.
 
 **This list is automatically generated daily from the [MacGamers.org](https://macgamers.org/) database of user submitted
 game reports.**

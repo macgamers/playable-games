@@ -1,6 +1,6 @@
-# Native macOS Games Playable Natively on Apple Silicon
+# Working Native macOS Games
 
-Below is a list of games that were released natively that are still playable natively on macOS.
+Games that were released natively for macOS that are still playable natively on macOS.
 
 **This list is automatically generated daily from the [MacGamers.org](https://macgamers.org/) database of user submitted
 game reports.**

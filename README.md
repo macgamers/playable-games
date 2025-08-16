@@ -1,7 +1,7 @@
-# Windows Games Playable on Apple Silicon
+# Windows Games Playable on macOS
 
-Windows games that are playable on Apple silicon macs using CrossOver, Parallels, and other methods.
-Know which games are likely to work for you before installing or buying.
+Windows games that have been tested and are playable on macOS using CrossOver, Parallels, and other methods. Know which
+games are likely to work for you before installing or buying.
 
 **This list is automatically generated daily from the [MacGamers.org](https://macgamers.org/) database of user submitted
 game reports.**
@@ -100,5 +100,5 @@ are fully responsible for any games that you buy based on this list.
 
 ## Other Lists
 
-- [Broken Games](BROKEN.md) - Games that have reports and all indicate that the game is unplayable.
-- [Native Games](NATIVE.md) - Games that were released natively and still work natively on Apple silicon macs.
+- [Broken Games](BROKEN.md) - Games that are reported to be unplayable on macOS.
+- [Native Games](NATIVE.md) - Games that were released natively for macOS that are still playable natively on macOS.
