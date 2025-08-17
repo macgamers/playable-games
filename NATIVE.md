@@ -12,6 +12,7 @@ game reports.**
 | [Bastion](https://macgamers.org/games/bastion)                                                                                      | 2025-08-06  |
 | [Beholder](https://macgamers.org/games/beholder)                                                                                    | 2025-08-06  |
 | [BioShock™ 2 Remastered](https://macgamers.org/games/bioshock-2-remastered)                                                       | 2025-08-06  |
+| [Borderlands 3](https://macgamers.org/games/borderlands-3)                                                                          | 2025-08-17  |
 | [Champions of Regnum](https://macgamers.org/games/champions-of-regnum)                                                              | 2025-08-06  |
 | [Cities: Skylines](https://macgamers.org/games/cities-skylines)                                                                     | 2025-08-07  |
 | [Company of Heroes 2](https://macgamers.org/games/company-of-heroes-2)                                                              | 2025-08-07  |
