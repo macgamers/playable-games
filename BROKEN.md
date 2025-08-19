@@ -9,6 +9,7 @@ game reports.**
 | Game                                                                                                   | Methods Tested                                           |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | [Anna - Extended Edition](https://macgamers.org/games/anna-extended-edition)                           | **Native** *Broken*                                      |
+| [Assassin's Creed® Odyssey](https://macgamers.org/games/assassins-creed-odyssey)                      | **Parallels (Windows)** *Broken*                         |
 | [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                          | **Parallels (Windows)** *Broken*                         |
 | [Dishonored®: Death of the Outsider™](https://macgamers.org/games/dishonored-death-of-the-outsider) | **Parallels (Windows)** *Broken*                         |
 | [DOOM](https://macgamers.org/games/doom)                                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |

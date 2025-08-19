@@ -19,6 +19,7 @@ game reports.**
 | [Euro Truck Simulator 2](https://macgamers.org/games/euro-truck-simulator-2)                                                        | 2025-07-14  |
 | [Northgard](https://macgamers.org/games/northgard)                                                                                  | 2025-07-27  |
 | [Path of Exile](https://macgamers.org/games/path-of-exile)                                                                          | 2025-07-14  |
+| [Surviving Mars](https://macgamers.org/games/surviving-mars)                                                                        | 2025-08-19  |
 | [The Elder Scrolls® Online](https://macgamers.org/games/the-elder-scrolls-online)                                                  | 2025-07-12  |
 | [The Long Dark](https://macgamers.org/games/the-long-dark)                                                                          | 2025-08-16  |
 | [The Witcher 2: Assassins of Kings Enhanced Edition](https://macgamers.org/games/the-witcher-2-assassins-of-kings-enhanced-edition) | 2025-07-22  |
