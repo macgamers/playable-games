@@ -17,6 +17,7 @@ game reports.**
 | [Dragon Age™ Inquisition](https://macgamers.org/games/dragon-age-inquisition)                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
+| [Garfield Kart 2 - All You Can Drift](https://macgamers.org/games/garfield-kart-2-all-you-can-drift)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                                    | **CrossOver** *Broken*                                   |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)                   | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
