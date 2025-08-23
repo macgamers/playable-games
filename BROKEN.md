@@ -19,7 +19,6 @@ game reports.**
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Garfield Kart 2 - All You Can Drift](https://macgamers.org/games/garfield-kart-2-all-you-can-drift)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                                    | **CrossOver** *Broken*                                   |
-| [Killing Floor](https://macgamers.org/games/killing-floor)                                                     | **Native** *Broken*                                      |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)                   | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Mist Survival](https://macgamers.org/games/mist-survival)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
