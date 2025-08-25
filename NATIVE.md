@@ -23,6 +23,7 @@ game reports.**
 | [The Elder Scrolls® Online](https://macgamers.org/games/the-elder-scrolls-online)                                                  | 2025-07-12  |
 | [The Long Dark](https://macgamers.org/games/the-long-dark)                                                                          | 2025-08-16  |
 | [The Witcher 2: Assassins of Kings Enhanced Edition](https://macgamers.org/games/the-witcher-2-assassins-of-kings-enhanced-edition) | 2025-07-22  |
+| [Thief](https://macgamers.org/games/thief)                                                                                          | 2025-08-25  |
 | [Valheim](https://macgamers.org/games/valheim)                                                                                      | 2025-07-27  |
 
 
