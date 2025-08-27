@@ -8,6 +8,7 @@ game reports.**
 
 | Game                                                                                                           | Methods Tested                                           |
 |----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| [AC Sailing](https://macgamers.org/games/ac-sailing)                                                           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Anna - Extended Edition](https://macgamers.org/games/anna-extended-edition)                                   | **Native** *Broken*                                      |
 | [Assassin's Creed® Odyssey](https://macgamers.org/games/assassins-creed-odyssey)                              | **Parallels (Windows)** *Broken*                         |
 | [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                                  | **Parallels (Windows)** *Broken*                         |
