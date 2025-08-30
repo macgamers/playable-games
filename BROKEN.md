@@ -11,6 +11,7 @@ game reports.**
 | [AC Sailing](https://macgamers.org/games/ac-sailing)                                                           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Anna - Extended Edition](https://macgamers.org/games/anna-extended-edition)                                   | **Native** *Broken*                                      |
 | [Assassin's Creed® Odyssey](https://macgamers.org/games/assassins-creed-odyssey)                              | **Parallels (Windows)** *Broken*                         |
+| [Banishers: Ghosts of New Eden](https://macgamers.org/games/banishers-ghosts-of-new-eden)                      | **Parallels (Windows)** *Broken*                         |
 | [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                                  | **Parallels (Windows)** *Broken*                         |
 | [Darksiders II Deathinitive Edition](https://macgamers.org/games/darksiders-ii-deathinitive-edition)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dishonored®: Death of the Outsider™](https://macgamers.org/games/dishonored-death-of-the-outsider)         | **Parallels (Windows)** *Broken*                         |
