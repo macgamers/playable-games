@@ -30,6 +30,7 @@ game reports.**
 | [Nightingale](https://macgamers.org/games/nightingale)                                                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Resident Evil Village](https://macgamers.org/games/resident-evil-village)                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Street Fighter™ 6](https://macgamers.org/games/street-fighter-6)                                            | **CrossOver** *Broken*                                   |
+| [Survival: Fountain of Youth](https://macgamers.org/games/survival-fountain-of-youth)                          | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Warhammer 40,000: Gladius - Relics of War](https://macgamers.org/games/warhammer-40000-gladius-relics-of-war) | **CrossOver** *Broken*                                   |
 | [WRC 7 FIA World Rally Championship](https://macgamers.org/games/wrc-7-fia-world-rally-championship)           | **CrossOver** *Broken*                                   |
 
