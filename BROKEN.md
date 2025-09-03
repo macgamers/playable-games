@@ -14,12 +14,14 @@ game reports.**
 | [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                                  | **Parallels (Windows)** *Broken*                         |
 | [Darksiders II Deathinitive Edition](https://macgamers.org/games/darksiders-ii-deathinitive-edition)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [DEATH STRANDING DIRECTOR'S CUT](https://macgamers.org/games/death-stranding-directors-cut)                    | **CrossOver** *Broken*                                   |
+| [DEATHLOOP](https://macgamers.org/games/deathloop)                                                             | **CrossOver** *Broken*                                   |
 | [Dishonored®: Death of the Outsider™](https://macgamers.org/games/dishonored-death-of-the-outsider)         | **Parallels (Windows)** *Broken*                         |
 | [DOOM](https://macgamers.org/games/doom)                                                                       | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dragon Age™ Inquisition](https://macgamers.org/games/dragon-age-inquisition)                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Garfield Kart 2 - All You Can Drift](https://macgamers.org/games/garfield-kart-2-all-you-can-drift)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
+| [Ghostwire: Tokyo](https://macgamers.org/games/ghostwire-tokyo)                                                | **CrossOver** *Broken*                                   |
 | [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)                   | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
