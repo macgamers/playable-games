@@ -25,6 +25,7 @@ game reports.**
 | [The Long Dark](https://macgamers.org/games/the-long-dark)                                                                          | 2025-08-16  |
 | [The Witcher 2: Assassins of Kings Enhanced Edition](https://macgamers.org/games/the-witcher-2-assassins-of-kings-enhanced-edition) | 2025-07-22  |
 | [Thief](https://macgamers.org/games/thief)                                                                                          | 2025-08-25  |
+| [Torchlight II](https://macgamers.org/games/torchlight-ii)                                                                          | 2025-09-05  |
 | [Valheim](https://macgamers.org/games/valheim)                                                                                      | 2025-07-27  |
 
 
