@@ -26,9 +26,6 @@ game reports.**
 | [Ghostwire: Tokyo](https://macgamers.org/games/ghostwire-tokyo)                                                | **CrossOver** *Broken*                                                        |
 | [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)                   | **CrossOver** *Broken*, **Native** *Broken*, **Parallels (Windows)** *Broken* |
-| [King's Bounty: Dark Side](https://macgamers.org/games/kings-bounty-dark-side)                                 | **Native** *Broken*                                                           |
-| [King's Bounty: The Legend](https://macgamers.org/games/kings-bounty-the-legend)                               | **Native** *Broken*                                                           |
-| [King's Bounty: Warriors of the North](https://macgamers.org/games/kings-bounty-warriors-of-the-north)         | **Native** *Broken*                                                           |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Mist Survival](https://macgamers.org/games/mist-survival)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Monster Hunter Rise: Sunbreak Demo](https://macgamers.org/games/monster-hunter-rise-sunbreak-demo)            | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
