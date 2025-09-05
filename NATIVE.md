@@ -17,6 +17,7 @@ game reports.**
 | [Cities: Skylines](https://macgamers.org/games/cities-skylines)                                                                     | 2025-08-07  |
 | [Company of Heroes 2](https://macgamers.org/games/company-of-heroes-2)                                                              | 2025-08-07  |
 | [Euro Truck Simulator 2](https://macgamers.org/games/euro-truck-simulator-2)                                                        | 2025-07-14  |
+| [Factorio](https://macgamers.org/games/factorio)                                                                                    | 2025-09-05  |
 | [Northgard](https://macgamers.org/games/northgard)                                                                                  | 2025-07-27  |
 | [Path of Exile](https://macgamers.org/games/path-of-exile)                                                                          | 2025-07-14  |
 | [Surviving Mars](https://macgamers.org/games/surviving-mars)                                                                        | 2025-08-19  |
