@@ -12,7 +12,6 @@ game reports.**
 | [Anna - Extended Edition](https://macgamers.org/games/anna-extended-edition)                                   | **Native** *Broken*                                                           |
 | [Assassin's Creed® Odyssey](https://macgamers.org/games/assassins-creed-odyssey)                              | **Parallels (Windows)** *Broken*                                              |
 | [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                                  | **Parallels (Windows)** *Broken*                                              |
-| [Car Mechanic Simulator 2021](https://macgamers.org/games/car-mechanic-simulator-2021)                         | **CrossOver** *Broken*                                                        |
 | [CarX Street](https://macgamers.org/games/carx-street)                                                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Darksiders II Deathinitive Edition](https://macgamers.org/games/darksiders-ii-deathinitive-edition)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [DEATH STRANDING DIRECTOR'S CUT](https://macgamers.org/games/death-stranding-directors-cut)                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
