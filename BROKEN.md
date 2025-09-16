@@ -31,6 +31,7 @@ game reports.**
 | [Monster Hunter Rise: Sunbreak Demo](https://macgamers.org/games/monster-hunter-rise-sunbreak-demo)            | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Nightingale](https://macgamers.org/games/nightingale)                                                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Resident Evil Village](https://macgamers.org/games/resident-evil-village)                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Shop Titans](https://macgamers.org/games/shop-titans)                                                         | **CrossOver** *Broken*                                                        |
 | [Street Fighter™ 6](https://macgamers.org/games/street-fighter-6)                                            | **CrossOver** *Broken*                                                        |
 | [Survival: Fountain of Youth](https://macgamers.org/games/survival-fountain-of-youth)                          | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [The Crew Motorfest](https://macgamers.org/games/the-crew-motorfest)                                           | **CrossOver** *Broken*                                                        |
