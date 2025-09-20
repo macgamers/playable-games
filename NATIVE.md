@@ -20,6 +20,7 @@ game reports.**
 | [Factorio](https://macgamers.org/games/factorio)                                                                                    | 2025-09-05  |
 | [Northgard](https://macgamers.org/games/northgard)                                                                                  | 2025-07-27  |
 | [Path of Exile](https://macgamers.org/games/path-of-exile)                                                                          | 2025-07-14  |
+| [Planet Coaster](https://macgamers.org/games/planet-coaster)                                                                        | 2025-09-20  |
 | [Surviving Mars](https://macgamers.org/games/surviving-mars)                                                                        | 2025-08-19  |
 | [The Elder Scrolls® Online](https://macgamers.org/games/the-elder-scrolls-online)                                                  | 2025-07-12  |
 | [The Long Dark](https://macgamers.org/games/the-long-dark)                                                                          | 2025-08-16  |
