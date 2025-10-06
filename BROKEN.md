@@ -23,11 +23,12 @@ game reports.**
 | [Dragon Age™ Inquisition](https://macgamers.org/games/dragon-age-inquisition)                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Foundation](https://macgamers.org/games/foundation)                                                           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Garfield Kart 2 - All You Can Drift](https://macgamers.org/games/garfield-kart-2-all-you-can-drift)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Ghostwire: Tokyo](https://macgamers.org/games/ghostwire-tokyo)                                                | **CrossOver** *Broken*                                                        |
 | [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)                   | **CrossOver** *Broken*, **Native** *Broken*, **Parallels (Windows)** *Broken* |
-| [Marvel's Midnight Suns](https://macgamers.org/games/marvels-midnight-suns)                                    | **CrossOver** *Broken*                                                        |
+| [Marvel's Midnight Suns](https://macgamers.org/games/marvels-midnight-suns)                                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Mist Survival](https://macgamers.org/games/mist-survival)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Monster Hunter Rise: Sunbreak Demo](https://macgamers.org/games/monster-hunter-rise-sunbreak-demo)            | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
@@ -40,6 +41,7 @@ game reports.**
 | [The Crew Motorfest](https://macgamers.org/games/the-crew-motorfest)                                           | **CrossOver** *Broken*                                                        |
 | [Warhammer 40,000: Gladius - Relics of War](https://macgamers.org/games/warhammer-40000-gladius-relics-of-war) | **CrossOver** *Broken*                                                        |
 | [Watch_Dogs® 2](https://macgamers.org/games/watch-dogs-2)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [World War Z](https://macgamers.org/games/world-war-z)                                                         | **Parallels (Windows)** *Broken*                                              |
 | [WRC 7 FIA World Rally Championship](https://macgamers.org/games/wrc-7-fia-world-rally-championship)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 
 
