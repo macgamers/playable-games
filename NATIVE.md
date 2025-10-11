@@ -18,6 +18,7 @@ game reports.**
 | [Company of Heroes 2](https://macgamers.org/games/company-of-heroes-2)                                                              | 2025-08-07  |
 | [Euro Truck Simulator 2](https://macgamers.org/games/euro-truck-simulator-2)                                                        | 2025-07-14  |
 | [Factorio](https://macgamers.org/games/factorio)                                                                                    | 2025-09-05  |
+| [Kingdom Two Crowns](https://macgamers.org/games/kingdom-two-crowns)                                                                | 2025-10-10  |
 | [Northgard](https://macgamers.org/games/northgard)                                                                                  | 2025-07-27  |
 | [Path of Exile](https://macgamers.org/games/path-of-exile)                                                                          | 2025-07-14  |
 | [Planet Coaster](https://macgamers.org/games/planet-coaster)                                                                        | 2025-09-20  |
