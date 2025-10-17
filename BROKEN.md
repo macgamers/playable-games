@@ -9,6 +9,8 @@ game reports.**
 | Game                                                                                                           | Methods Tested                                                                |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | [AC Sailing](https://macgamers.org/games/ac-sailing)                                                           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Amnesia: Rebirth](https://macgamers.org/games/amnesia-rebirth)                                                | **CrossOver** *Broken*                                                        |
+| [Amnesia: The Bunker](https://macgamers.org/games/amnesia-the-bunker)                                          | **CrossOver** *Broken*                                                        |
 | [Anna - Extended Edition](https://macgamers.org/games/anna-extended-edition)                                   | **Native** *Broken*                                                           |
 | [Assassin's Creed® Odyssey](https://macgamers.org/games/assassins-creed-odyssey)                              | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                                  | **Parallels (Windows)** *Broken*                                              |
