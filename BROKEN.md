@@ -25,6 +25,7 @@ game reports.**
 | [Dragon Age™ Inquisition](https://macgamers.org/games/dragon-age-inquisition)                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                               | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [F1® 25](https://macgamers.org/games/f1-25)                                                                   | **CrossOver** *Broken*                                                        |
 | [Foundation](https://macgamers.org/games/foundation)                                                           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Garfield Kart 2 - All You Can Drift](https://macgamers.org/games/garfield-kart-2-all-you-can-drift)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Ghostwire: Tokyo](https://macgamers.org/games/ghostwire-tokyo)                                                | **CrossOver** *Broken*                                                        |
