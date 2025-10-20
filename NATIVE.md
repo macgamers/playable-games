@@ -16,6 +16,7 @@ game reports.**
 | [Champions of Regnum](https://macgamers.org/games/champions-of-regnum)                                                              | 2025-08-06  |
 | [Cities: Skylines](https://macgamers.org/games/cities-skylines)                                                                     | 2025-08-07  |
 | [Company of Heroes 2](https://macgamers.org/games/company-of-heroes-2)                                                              | 2025-08-07  |
+| [Dead Island 2](https://macgamers.org/games/dead-island-2)                                                                          | 2025-10-19  |
 | [Euro Truck Simulator 2](https://macgamers.org/games/euro-truck-simulator-2)                                                        | 2025-07-14  |
 | [Factorio](https://macgamers.org/games/factorio)                                                                                    | 2025-09-05  |
 | [Kingdom Two Crowns](https://macgamers.org/games/kingdom-two-crowns)                                                                | 2025-10-10  |

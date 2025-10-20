@@ -43,6 +43,7 @@ game reports.**
 | [Survival: Fountain of Youth](https://macgamers.org/games/survival-fountain-of-youth)                          | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [The Crew Motorfest](https://macgamers.org/games/the-crew-motorfest)                                           | **CrossOver** *Broken*                                                        |
 | [Warhammer 40,000: Gladius - Relics of War](https://macgamers.org/games/warhammer-40000-gladius-relics-of-war) | **CrossOver** *Broken*                                                        |
+| [Warhammer: Vermintide 2](https://macgamers.org/games/warhammer-vermintide-2)                                  | **CrossOver** *Broken*                                                        |
 | [Watch_Dogs® 2](https://macgamers.org/games/watch-dogs-2)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [World War Z](https://macgamers.org/games/world-war-z)                                                         | **Parallels (Windows)** *Broken*                                              |
 | [WRC 7 FIA World Rally Championship](https://macgamers.org/games/wrc-7-fia-world-rally-championship)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
