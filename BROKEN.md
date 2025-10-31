@@ -15,6 +15,7 @@ game reports.**
 | [Assassin's Creed® Odyssey](https://macgamers.org/games/assassins-creed-odyssey)                              | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                                  | **Parallels (Windows)** *Broken*                                              |
 | [CarX Street](https://macgamers.org/games/carx-street)                                                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Cronos: The New Dawn](https://macgamers.org/games/cronos-the-new-dawn)                                        | **CrossOver** *Broken*                                                        |
 | [Darksiders II Deathinitive Edition](https://macgamers.org/games/darksiders-ii-deathinitive-edition)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Dead as Disco](https://macgamers.org/games/dead-as-disco)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [DEATH STRANDING DIRECTOR'S CUT](https://macgamers.org/games/death-stranding-directors-cut)                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
@@ -45,7 +46,7 @@ game reports.**
 | [Warhammer 40,000: Gladius - Relics of War](https://macgamers.org/games/warhammer-40000-gladius-relics-of-war) | **CrossOver** *Broken*                                                        |
 | [Warhammer: Vermintide 2](https://macgamers.org/games/warhammer-vermintide-2)                                  | **CrossOver** *Broken*                                                        |
 | [Watch_Dogs® 2](https://macgamers.org/games/watch-dogs-2)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
-| [World War Z](https://macgamers.org/games/world-war-z)                                                         | **Parallels (Windows)** *Broken*                                              |
+| [World War Z](https://macgamers.org/games/world-war-z)                                                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [WRC 7 FIA World Rally Championship](https://macgamers.org/games/wrc-7-fia-world-rally-championship)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 
 
