@@ -21,6 +21,7 @@ game reports.**
 | [DEATH STRANDING DIRECTOR'S CUT](https://macgamers.org/games/death-stranding-directors-cut)                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [DEATHLOOP](https://macgamers.org/games/deathloop)                                                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Detroit: Become Human](https://macgamers.org/games/detroit-become-human)                                      | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Dinoblade](https://macgamers.org/games/dinoblade)                                                             | **CrossOver** *Broken*                                                        |
 | [Dishonored®: Death of the Outsider™](https://macgamers.org/games/dishonored-death-of-the-outsider)         | **Parallels (Windows)** *Broken*                                              |
 | [DOOM](https://macgamers.org/games/doom)                                                                       | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Dragon Age™ Inquisition](https://macgamers.org/games/dragon-age-inquisition)                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
