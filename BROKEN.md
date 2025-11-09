@@ -44,6 +44,7 @@ game reports.**
 | [Street Fighter™ 6](https://macgamers.org/games/street-fighter-6)                                            | **CrossOver** *Broken*                                                        |
 | [Survival: Fountain of Youth](https://macgamers.org/games/survival-fountain-of-youth)                          | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [The Crew Motorfest](https://macgamers.org/games/the-crew-motorfest)                                           | **CrossOver** *Broken*                                                        |
+| [There Are No Ghosts at the Grand](https://macgamers.org/games/there-are-no-ghosts-at-the-grand)               | **CrossOver** *Broken*                                                        |
 | [Warhammer 40,000: Gladius - Relics of War](https://macgamers.org/games/warhammer-40000-gladius-relics-of-war) | **CrossOver** *Broken*                                                        |
 | [Warhammer: Vermintide 2](https://macgamers.org/games/warhammer-vermintide-2)                                  | **CrossOver** *Broken*                                                        |
 | [Watch_Dogs® 2](https://macgamers.org/games/watch-dogs-2)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
