@@ -15,6 +15,7 @@ game reports.**
 | [Assassin's Creed® Odyssey](https://macgamers.org/games/assassins-creed-odyssey)                              | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Battlefield™ V](https://macgamers.org/games/battlefield-v)                                                  | **Parallels (Windows)** *Broken*                                              |
 | [CarX Street](https://macgamers.org/games/carx-street)                                                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Cities: Skylines II](https://macgamers.org/games/cities-skylines-ii)                                          | **CrossOver** *Broken*                                                        |
 | [Cronos: The New Dawn](https://macgamers.org/games/cronos-the-new-dawn)                                        | **CrossOver** *Broken*                                                        |
 | [Darksiders II Deathinitive Edition](https://macgamers.org/games/darksiders-ii-deathinitive-edition)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Dead as Disco](https://macgamers.org/games/dead-as-disco)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
@@ -33,6 +34,7 @@ game reports.**
 | [Ghostwire: Tokyo](https://macgamers.org/games/ghostwire-tokyo)                                                | **CrossOver** *Broken*                                                        |
 | [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)                   | **CrossOver** *Broken*, **Native** *Broken*, **Parallels (Windows)** *Broken* |
+| [Kingdom Come: Deliverance II](https://macgamers.org/games/kingdom-come-deliverance-ii)                        | **CrossOver** *Broken*                                                        |
 | [Marvel's Midnight Suns](https://macgamers.org/games/marvels-midnight-suns)                                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Mist Survival](https://macgamers.org/games/mist-survival)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
