@@ -39,6 +39,7 @@ game reports.**
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Mist Survival](https://macgamers.org/games/mist-survival)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Monster Hunter Rise: Sunbreak Demo](https://macgamers.org/games/monster-hunter-rise-sunbreak-demo)            | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Monster Hunter Wilds](https://macgamers.org/games/monster-hunter-wilds)                                       | **CrossOver** *Broken*                                                        |
 | [Nightingale](https://macgamers.org/games/nightingale)                                                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Resident Evil Village](https://macgamers.org/games/resident-evil-village)                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Shop Titans](https://macgamers.org/games/shop-titans)                                                         | **CrossOver** *Broken*                                                        |
