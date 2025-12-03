@@ -43,6 +43,7 @@ game reports.**
 | [Monster Hunter Wilds](https://macgamers.org/games/monster-hunter-wilds)                                       | **CrossOver** *Broken*                                                        |
 | [Nightingale](https://macgamers.org/games/nightingale)                                                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Resident Evil Village](https://macgamers.org/games/resident-evil-village)                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Return to Castle Wolfenstein](https://macgamers.org/games/return-to-castle-wolfenstein)                       | **CrossOver** *Broken*                                                        |
 | [Shop Titans](https://macgamers.org/games/shop-titans)                                                         | **CrossOver** *Broken*                                                        |
 | [skate.](https://macgamers.org/games/skate)                                                                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Street Fighter™ 6](https://macgamers.org/games/street-fighter-6)                                            | **CrossOver** *Broken*                                                        |
