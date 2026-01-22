@@ -8,6 +8,8 @@ game reports.**
 
 | Game                                                                                                           | Methods Tested                                                                |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| [[REDACTED]](https://macgamers.org/games/redacted-1)                                                           | **CrossOver** *Broken*                                                        |
+| [20XX](https://macgamers.org/games/20xx)                                                                       | **CrossOver** *Broken*                                                        |
 | [AC Sailing](https://macgamers.org/games/ac-sailing)                                                           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Amnesia: Rebirth](https://macgamers.org/games/amnesia-rebirth)                                                | **CrossOver** *Broken*                                                        |
 | [Amnesia: The Bunker](https://macgamers.org/games/amnesia-the-bunker)                                          | **CrossOver** *Broken*                                                        |
