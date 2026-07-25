@@ -9,7 +9,7 @@ reports.**
 ### CrossOver Coupon Code
 
 Use the
-[CrossOver](https://www.codeweavers.com/crossover/download?ad=1122;deal=MACGAMERS15)
+[CrossOver](https://www.codeweavers.com/crossover/download)
 coupon code `MACGAMERS15` for a *15%* discount.
 
 | Game                                                                                                                                                                   | Playability | Methods Tested                                                                      |
@@ -253,7 +253,7 @@ coupon code `MACGAMERS15` for a *15%* discount.
 Disclaimer: This list is from user-submitted game reports. These games may or may not work for you on your mac and you
 are fully responsible for any games that you buy based on this list.
 
-## Other Lists
+### Other Lists
 
 - [Broken Games](BROKEN.md) - Games that are reported to be unplayable on macOS.
 - [Native Games](NATIVE.md) - Games that were released natively for macOS that are still playable natively on macOS.
