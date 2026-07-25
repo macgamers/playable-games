@@ -8,7 +8,9 @@ reports.**
 
 ### CrossOver Coupon Code
 
-Use the CrossOver Coupon Code `MACGAMERS15` for a *15%* discount.
+Use the
+[CrossOver](https://www.codeweavers.com/crossover/download?ad=1122;deal=MACGAMERS15)
+coupon code `MACGAMERS15` for a *15%* discount.
 
 | Game                                                                                                                                                                   | Playability | Methods Tested                                                                      |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------|

@@ -36,6 +36,7 @@ game reports.**
 | [Garfield Kart 2 - All You Can Drift](https://macgamers.org/games/garfield-kart-2-all-you-can-drift)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [Ghostwire: Tokyo](https://macgamers.org/games/ghostwire-tokyo)                                                | **CrossOver** *Broken*                                                        |
 | [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                                    | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Killing Floor 3](https://macgamers.org/games/killing-floor-3)                                                 | **CrossOver** *Broken*                                                        |
 | [King's Bounty: Armored Princess](https://macgamers.org/games/kings-bounty-armored-princess)                   | **CrossOver** *Broken*, **Native** *Broken*, **Parallels (Windows)** *Broken* |
 | [Kingdom Come: Deliverance II](https://macgamers.org/games/kingdom-come-deliverance-ii)                        | **CrossOver** *Broken*                                                        |
 | [LEGO® 2K Drive](https://macgamers.org/games/lego-2k-drive)                                                   | **CrossOver** *Broken*                                                        |
@@ -59,6 +60,7 @@ game reports.**
 | [Warhammer 40,000: Gladius - Relics of War](https://macgamers.org/games/warhammer-40000-gladius-relics-of-war) | **CrossOver** *Broken*                                                        |
 | [Warhammer: Vermintide 2](https://macgamers.org/games/warhammer-vermintide-2)                                  | **CrossOver** *Broken*                                                        |
 | [Watch_Dogs® 2](https://macgamers.org/games/watch-dogs-2)                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
+| [Wild Assault](https://macgamers.org/games/wild-assault)                                                       | **CrossOver** *Broken*                                                        |
 | [Wildgate](https://macgamers.org/games/wildgate)                                                               | **CrossOver** *Broken*                                                        |
 | [World War Z](https://macgamers.org/games/world-war-z)                                                         | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
 | [WRC 7 FIA World Rally Championship](https://macgamers.org/games/wrc-7-fia-world-rally-championship)           | **CrossOver** *Broken*, **Parallels (Windows)** *Broken*                      |
