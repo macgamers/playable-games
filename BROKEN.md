@@ -21,6 +21,7 @@ game reports.**
 | [DEATH STRANDING DIRECTOR'S CUT](https://macgamers.org/games/death-stranding-directors-cut)                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [DEATHLOOP](https://macgamers.org/games/deathloop)                                                              | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [DOOM](https://macgamers.org/games/doom)                                                                        | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
+| [DOOMBLADE](https://macgamers.org/games/doomblade)                                                              | **CrossOver** *Broken*                                   |
 | [Darksiders II Deathinitive Edition](https://macgamers.org/games/darksiders-ii-deathinitive-edition)            | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dead as Disco](https://macgamers.org/games/dead-as-disco)                                                      | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Detroit: Become Human](https://macgamers.org/games/detroit-become-human)                                       | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
