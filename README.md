@@ -1,10 +1,10 @@
 # Windows Games Playable on macOS
 
-Windows games that have been tested and are playable on macOS using CrossOver, Parallels, and other methods. Know which
-games are likely to work for you before installing or buying.
+Windows games you can play on your Mac using CrossOver, Parallels, and other methods. Know which games are likely to
+work for you before installing or buying.
 
-**This list is automatically generated from the [MacGamers.org](https://macgamers.org/) database of user submitted game
-reports.**
+*This game list is generated from the [MacGamers.org](https://macgamers.org/) database of user submitted playability
+reports. Your experience may vary.*
 
 ### CrossOver Coupon Code
 
@@ -44,6 +44,7 @@ coupon code `MACGAMERS15` for a *15%* discount.
 | [Batman™: Arkham Origins](https://macgamers.org/games/batman-arkham-origins)                                                                                           | Excellent   | **CrossOver** *Broken*, **Parallels (Windows)** *Excellent*                         |
 | [Battlefield 4™](https://macgamers.org/games/battlefield-4)                                                                                                            | Excellent   | **CrossOver** *Broken*, **Parallels (Windows)** *Excellent*                         |
 | [Bendy and the Ink Machine](https://macgamers.org/games/bendy-and-the-ink-machine)                                                                                     | Perfect     | **CrossOver** *Perfect*, **Parallels (Windows)** *Excellent*                        |
+| [Blood West](https://macgamers.org/games/blood-west)                                                                                                                   | Perfect     | **CrossOver** *Perfect*                                                             |
 | [Bloodthief](https://macgamers.org/games/bloodthief)                                                                                                                   | Perfect     | **CrossOver** *Perfect*                                                             |
 | [Borderlands 2](https://macgamers.org/games/borderlands-2)                                                                                                             | Good        | **CrossOver** *Broken*, **Parallels (Windows)** *Good*                              |
 | [Borderlands Game of the Year Enhanced](https://macgamers.org/games/borderlands-game-of-the-year-enhanced)                                                             | Excellent   | **CrossOver** *Poor*, **Parallels (Windows)** *Excellent*                           |
@@ -67,7 +68,9 @@ coupon code `MACGAMERS15` for a *15%* discount.
 | [Dead Island Definitive Edition](https://macgamers.org/games/dead-island-definitive-edition)                                                                           | Excellent   | **CrossOver** *Excellent*, **Parallels (Windows)** *Poor*                           |
 | [Dead Island: Riptide Definitive Edition](https://macgamers.org/games/dead-island-riptide-definitive-edition)                                                          | Excellent   | **CrossOver** *Excellent*, **Parallels (Windows)** *Poor*                           |
 | [Dead Space (2008)](https://macgamers.org/games/dead-space-2008)                                                                                                       | Perfect     | **Parallels (Windows)** *Perfect*                                                   |
+| [Death's Gambit: Afterlife](https://macgamers.org/games/deaths-gambit-afterlife)                                                                                       | Excellent   | **CrossOver** *Excellent*                                                           |
 | [Deliver At All Costs](https://macgamers.org/games/deliver-at-all-costs)                                                                                               | Excellent   | **CrossOver** *Excellent*                                                           |
+| [Deliver Us Mars](https://macgamers.org/games/deliver-us-mars)                                                                                                         | Poor        | **CrossOver** *Poor*                                                                |
 | [Destroy All Humans! 2 - Reprobed](https://macgamers.org/games/destroy-all-humans-2-reprobed)                                                                          | Excellent   | **CrossOver** *Excellent*                                                           |
 | [Deus Ex: Mankind Divided](https://macgamers.org/games/deus-ex-mankind-divided)                                                                                        | Excellent   | **CrossOver** *Excellent*                                                           |
 | [Diablo® IV](https://macgamers.org/games/diablo-iv)                                                                                                                    | Excellent   | **CrossOver** *Excellent*                                                           |
@@ -84,6 +87,7 @@ coupon code `MACGAMERS15` for a *15%* discount.
 | [Dungeons 3](https://macgamers.org/games/dungeons-3)                                                                                                                   | Good        | **Parallels (Windows)** *Good*                                                      |
 | [Dungeons 4](https://macgamers.org/games/dungeons-4)                                                                                                                   | Excellent   | **CrossOver** *Excellent*, **Parallels (Windows)** *Broken*                         |
 | [ENDLESS Legend™ 2](https://macgamers.org/games/endless-legend-2)                                                                                                      | Poor        | **CrossOver** *Broken*, **Parallels (Windows)** *Poor*                              |
+| [Eastern Exorcist](https://macgamers.org/games/eastern-exorcist)                                                                                                       | Perfect     | **CrossOver** *Perfect*                                                             |
 | [Elin](https://macgamers.org/games/elin)                                                                                                                               | Perfect     | **CrossOver** *Broken*, **Parallels (Windows)** *Perfect*                           |
 | [Empyrion - Galactic Survival](https://macgamers.org/games/empyrion-galactic-survival)                                                                                 | Good        | **CrossOver** *Broken*, **Parallels (Windows)** *Good*                              |
 | [Enter the Gungeon](https://macgamers.org/games/enter-the-gungeon)                                                                                                     | Perfect     | **CrossOver** *Perfect*                                                             |
@@ -276,10 +280,12 @@ coupon code `MACGAMERS15` for a *15%* discount.
 | [Yooka-Replaylee](https://macgamers.org/games/yooka-replaylee)                                                                                                         | Excellent   | **CrossOver** *Excellent*, **Parallels (Windows)** *Good*                           |
 | [theHunter: Call of the Wild™](https://macgamers.org/games/thehunter-call-of-the-wild)                                                                                 | Perfect     | **CrossOver** *Perfect*, **Parallels (Windows)** *Poor*                             |
 
-Disclaimer: This list is from user-submitted game reports. These games may or may not work for you on your mac and you
-are fully responsible for any games that you buy based on this list.
-
-### Other Lists
+### More Game Lists
 
 - [Broken Games](BROKEN.md) - Games that are reported to be unplayable on macOS.
-- [Native Games](NATIVE.md) - Games that were released natively for macOS that are still playable natively on macOS.
+- [macOS Native Games](NATIVE.md) - Games that were released natively for macOS and are still playable natively on
+  macOS.
+
+### Contribute
+
+Soon you'll be able to contribute to this list through the [MacGamers.org](https://macgamers.org/) website.

@@ -3,8 +3,8 @@
 Windows games that are currently unplayable on macOS using CrossOver, Parallels, and other methods, based on user
 reports.
 
-**This list is automatically generated daily from the [MacGamers.org](https://macgamers.org/) database of user submitted
-game reports.**
+*This game list is generated from the [MacGamers.org](https://macgamers.org/) database of user submitted playability
+reports. Your experience may vary.*
 
 | Game                                                                                                            | Methods Tested                                           |
 | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -18,12 +18,14 @@ game reports.**
 | [CarX Street](https://macgamers.org/games/carx-street)                                                          | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Cities: Skylines II](https://macgamers.org/games/cities-skylines-ii)                                           | **CrossOver** *Broken*                                   |
 | [Cronos: The New Dawn](https://macgamers.org/games/cronos-the-new-dawn)                                         | **CrossOver** *Broken*                                   |
+| [DARQ: Complete Edition](https://macgamers.org/games/darq-complete-edition)                                     | **CrossOver** *Broken*                                   |
 | [DEATH STRANDING DIRECTOR'S CUT](https://macgamers.org/games/death-stranding-directors-cut)                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [DEATHLOOP](https://macgamers.org/games/deathloop)                                                              | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [DOOM](https://macgamers.org/games/doom)                                                                        | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [DOOMBLADE](https://macgamers.org/games/doomblade)                                                              | **CrossOver** *Broken*                                   |
 | [Darksiders II Deathinitive Edition](https://macgamers.org/games/darksiders-ii-deathinitive-edition)            | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dead as Disco](https://macgamers.org/games/dead-as-disco)                                                      | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
+| [Deceive Inc.](https://macgamers.org/games/deceive-inc)                                                         | **CrossOver** *Broken*                                   |
 | [Detroit: Become Human](https://macgamers.org/games/detroit-become-human)                                       | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Dinoblade](https://macgamers.org/games/dinoblade)                                                              | **CrossOver** *Broken*                                   |
 | [Dishonored®: Death of the Outsider™](https://macgamers.org/games/dishonored-death-of-the-outsider)             | **Parallels (Windows)** *Broken*                         |
@@ -64,6 +66,3 @@ game reports.**
 | [World War Z](https://macgamers.org/games/world-war-z)                                                          | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [[REDACTED]](https://macgamers.org/games/redacted)                                                              | **CrossOver** *Broken*                                   |
 | [skate.](https://macgamers.org/games/skate)                                                                     | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
-
-Note: [MacGamers.org](https://macgamers.org/) is new (and under development) so this list is currently small. You can
-help grow this list by submitting game reports on the website (soon).

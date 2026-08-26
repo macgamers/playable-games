@@ -2,8 +2,8 @@
 
 Games that were released natively for macOS that are still playable natively on macOS.
 
-**This list is automatically generated daily from the [MacGamers.org](https://macgamers.org/) database of user submitted
-game reports.**
+*This game list is generated from the [MacGamers.org](https://macgamers.org/) database of user submitted playability
+reports. Your experience may vary.*
 
 | Game                                                                                                                                | Last Tested |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -34,6 +34,3 @@ game reports.**
 | [Thief](https://macgamers.org/games/thief)                                                                                          | 2025-08-25  |
 | [Torchlight II](https://macgamers.org/games/torchlight-ii)                                                                          | 2025-09-05  |
 | [Valheim](https://macgamers.org/games/valheim)                                                                                      | 2025-07-27  |
-
-Note: [MacGamers.org](https://macgamers.org/) is new (and under development) so this list is currently small. You can
-help grow this list by submitting game reports on the website (soon).
