@@ -37,6 +37,7 @@ reports. Your experience may vary.*
 | [Game of Thrones: Kingsroad](https://macgamers.org/games/game-of-thrones-kingsroad)                             | **CrossOver** *Broken*                                   |
 | [Garfield Kart 2 - All You Can Drift](https://macgamers.org/games/garfield-kart-2-all-you-can-drift)            | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Ghostwire: Tokyo](https://macgamers.org/games/ghostwire-tokyo)                                                 | **CrossOver** *Broken*                                   |
+| [God's Trigger](https://macgamers.org/games/gods-trigger)                                                       | **CrossOver** *Broken*                                   |
 | [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                                       | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Killing Floor 3](https://macgamers.org/games/killing-floor-3)                                                  | **CrossOver** *Broken*                                   |
 | [Kingdom Come: Deliverance II](https://macgamers.org/games/kingdom-come-deliverance-ii)                         | **CrossOver** *Broken*                                   |
