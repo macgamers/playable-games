@@ -51,6 +51,7 @@ reports. Your experience may vary.*
 | [Nightingale](https://macgamers.org/games/nightingale)                                                          | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Resident Evil Village](https://macgamers.org/games/resident-evil-village)                                      | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Return to Castle Wolfenstein](https://macgamers.org/games/return-to-castle-wolfenstein)                        | **CrossOver** *Broken*                                   |
+| [Rogue Company](https://macgamers.org/games/rogue-company)                                                      | **CrossOver** *Broken*                                   |
 | [Shop Titans](https://macgamers.org/games/shop-titans)                                                          | **CrossOver** *Broken*                                   |
 | [State of Decay 2: Juggernaut Edition](https://macgamers.org/games/state-of-decay-2-juggernaut-edition)         | **CrossOver** *Broken*                                   |
 | [Street Fighter™ 6](https://macgamers.org/games/street-fighter-6)                                               | **CrossOver** *Broken*                                   |
