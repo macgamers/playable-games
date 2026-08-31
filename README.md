@@ -6,11 +6,9 @@ work for you before installing or buying.
 *This game list is generated from the [MacGamers.org](https://macgamers.org/) database of user submitted playability
 reports. Your experience may vary.*
 
-### CrossOver Coupon Code
+### Playability Details
 
-Use the
-[CrossOver](https://www.codeweavers.com/crossover/download)
-coupon code `MACGAMERS15` for a *15%* discount.
+Click each game to see mac hardware used and additional information.
 
 | Game                                                                                                                                                                   | Playability | Methods Tested                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------- |
@@ -228,7 +226,9 @@ coupon code `MACGAMERS15` for a *15%* discount.
 | [STAR WARS™: The Old Republic™](https://macgamers.org/games/star-wars-the-old-republic)                                                                                | Perfect     | **CrossOver** *Perfect*                                                             |
 | [SWORN](https://macgamers.org/games/sworn)                                                                                                                             | Excellent   | **CrossOver** *Excellent*, **Parallels (Windows)** *Excellent*                      |
 | [Saints Row 2](https://macgamers.org/games/saints-row-2)                                                                                                               | Good        | **CrossOver** *Poor*, **Parallels (Windows)** *Good*                                |
+| [Saints Row IV: Re-Elected](https://macgamers.org/games/saints-row-iv-re-elected)                                                                                      | Perfect     | **CrossOver** *Perfect*                                                             |
 | [Saints Row: The Third](https://macgamers.org/games/saints-row-the-third)                                                                                              | Poor        | **CrossOver** *Broken*, **Parallels (Windows)** *Poor*                              |
+| [Saints Row®: The Third™ Remastered](https://macgamers.org/games/saints-row-the-third-remastered)                                                                      | Perfect     | **CrossOver** *Perfect*                                                             |
 | [Schedule I](https://macgamers.org/games/schedule-i)                                                                                                                   | Perfect     | **CrossOver** *Perfect*                                                             |
 | [Serious Sam 3: BFE](https://macgamers.org/games/serious-sam-3-bfe)                                                                                                    | Poor        | **CrossOver** *Poor*                                                                |
 | [Shadow Gambit: The Cursed Crew](https://macgamers.org/games/shadow-gambit-the-cursed-crew)                                                                            | Excellent   | **CrossOver** *Excellent*                                                           |
