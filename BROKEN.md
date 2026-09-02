@@ -39,6 +39,7 @@ reports. Your experience may vary.*
 | [Garfield Kart 2 - All You Can Drift](https://macgamers.org/games/garfield-kart-2-all-you-can-drift)                  | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Ghostwire: Tokyo](https://macgamers.org/games/ghostwire-tokyo)                                                       | **CrossOver** *Broken*                                   |
 | [God's Trigger](https://macgamers.org/games/gods-trigger)                                                             | **CrossOver** *Broken*                                   |
+| [INSIDE](https://macgamers.org/games/inside)                                                                          | **CrossOver** *Broken*                                   |
 | [Just Cause™ 3](https://macgamers.org/games/just-cause-3)                                                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Killing Floor 3](https://macgamers.org/games/killing-floor-3)                                                        | **CrossOver** *Broken*                                   |
 | [Kingdom Come: Deliverance II](https://macgamers.org/games/kingdom-come-deliverance-ii)                               | **CrossOver** *Broken*                                   |
@@ -50,6 +51,7 @@ reports. Your experience may vary.*
 | [Monster Hunter Wilds](https://macgamers.org/games/monster-hunter-wilds)                                              | **CrossOver** *Broken*                                   |
 | [Mortal Shell II](https://macgamers.org/games/mortal-shell-ii)                                                        | **CrossOver** *Broken*                                   |
 | [Nightingale](https://macgamers.org/games/nightingale)                                                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
+| [Predator: Hunting Grounds](https://macgamers.org/games/predator-hunting-grounds)                                     | **CrossOver** *Broken*                                   |
 | [Resident Evil Village](https://macgamers.org/games/resident-evil-village)                                            | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Return to Castle Wolfenstein](https://macgamers.org/games/return-to-castle-wolfenstein)                              | **CrossOver** *Broken*                                   |
 | [Rogue Company](https://macgamers.org/games/rogue-company)                                                            | **CrossOver** *Broken*                                   |
@@ -67,6 +69,7 @@ reports. Your experience may vary.*
 | [Watch_Dogs® 2](https://macgamers.org/games/watch-dogs-2)                                                             | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [Wild Assault](https://macgamers.org/games/wild-assault)                                                              | **CrossOver** *Broken*                                   |
 | [Wildgate](https://macgamers.org/games/wildgate)                                                                      | **CrossOver** *Broken*                                   |
+| [Wo Long: Fallen Dynasty](https://macgamers.org/games/wo-long-fallen-dynasty)                                         | **CrossOver** *Broken*                                   |
 | [Wolfenstein II: The New Colossus](https://macgamers.org/games/wolfenstein-ii-the-new-colossus)                       | **CrossOver** *Broken*                                   |
 | [World War Z](https://macgamers.org/games/world-war-z)                                                                | **CrossOver** *Broken*, **Parallels (Windows)** *Broken* |
 | [[REDACTED]](https://macgamers.org/games/redacted)                                                                    | **CrossOver** *Broken*                                   |
