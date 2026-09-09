@@ -1,14 +1,16 @@
-# Windows Games Playable on macOS
+# Play Windows Games on Your Mac
 
-Windows games you can play on your Mac using CrossOver, Parallels, and other methods. Know which games are likely to
-work for you before installing or buying.
+Below are Windows games that you can play on your Mac using CrossOver, Parallels, and other methods. Know which games
+are likely to work for you before installing or buying.
 
 *This game list is generated from the [MacGamers.org](https://macgamers.org/) database of user submitted playability
 reports. Your experience may vary.*
 
-### Playability Details
+### Mac Hardware & Notes
 
-Click each game to see mac hardware used and additional information.
+Click each game title to see mac hardware used and additional information. Click _Discuss_ to discuss the game in
+our
+forums.
 
 | Game                                                                                                                                                                         | Discuss                                                                                                                      | Playability | Methods Tested                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------- |
@@ -111,6 +113,8 @@ Click each game to see mac hardware used and additional information.
 | [Far Cry® 4](https://macgamers.org/games/far-cry-4)                                                                                                                          | [Discuss](https://community.macgamers.org/t/far-cry-4-on-macos/73)                                                           | Excellent   | **CrossOver** *Excellent*<br/>**Parallels** *Excellent*                         |
 | [Far Cry® 5](https://macgamers.org/games/far-cry-5)                                                                                                                          | [Discuss](https://community.macgamers.org/t/far-cry-5-on-macos/39)                                                           | Good        | **CrossOver** *Poor*<br/>**Parallels** *Good*                                   |
 | [Far Cry® 6](https://macgamers.org/games/far-cry-6)                                                                                                                          | [Discuss](https://community.macgamers.org/t/far-cry-6-on-macos/118)                                                          | Excellent   | **CrossOver** *Excellent*                                                       |
+| [Farming Simulator 19](https://macgamers.org/games/farming-simulator-19)                                                                                                     |                                                                                                                              | Perfect     | **CrossOver** *Perfect*                                                         |
+| [Farming Simulator 22](https://macgamers.org/games/farming-simulator-22)                                                                                                     |                                                                                                                              | Excellent   | **CrossOver** *Excellent*                                                       |
 | [Firefighting Simulator: Ignite](https://macgamers.org/games/firefighting-simulator-ignite)                                                                                  | [Discuss](https://community.macgamers.org/t/firefighting-simulator-ignite-on-macos/299)                                      | Poor        | **CrossOver** *Poor*                                                            |
 | [First Class Trouble](https://macgamers.org/games/first-class-trouble)                                                                                                       | [Discuss](https://community.macgamers.org/t/first-class-trouble-on-macos/277)                                                | Good        | **CrossOver** *Good*                                                            |
 | [Fish Idle 2: Underwater Mystery](https://macgamers.org/games/fish-idle-2-underwater-mystery)                                                                                | [Discuss](https://community.macgamers.org/t/fish-idle-2-underwater-mystery-on-macos/329)                                     | Perfect     | **CrossOver** *Perfect*                                                         |
@@ -345,7 +349,7 @@ Click each game to see mac hardware used and additional information.
 
 Soon you'll be able to contribute to this list through the [MacGamers.org](https://macgamers.org/) website.
 
-### Issues and Discussions
+### Community
 
-Use the [MacGamers Community](https://community.macgamers.org) to report any problems or discuss Windows gaming on
-macOS.
+Visit the [MacGamers Community](https://community.macgamers.org) to report problems, make suggestions, or discuss
+playing Windows games on your Mac.
