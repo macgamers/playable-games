@@ -327,6 +327,7 @@ forums.
 | [Wartales](https://macgamers.org/games/wartales)                                                                                                                             | [Discuss](https://community.macgamers.org/t/wartales-on-macos/121)                                                           | Perfect     | **CrossOver** *Perfect*                                                         |
 | [Watch_Dogs™](https://macgamers.org/games/watch-dogs)                                                                                                                        | [Discuss](https://community.macgamers.org/t/watch-dogs-on-macos/95)                                                          | Poor        | **CrossOver** *Poor*<br/>**Parallels** *Poor*                                   |
 | [Waterpark Simulator](https://macgamers.org/games/waterpark-simulator)                                                                                                       | [Discuss](https://community.macgamers.org/t/waterpark-simulator-on-macos/194)                                                | Excellent   | **CrossOver** *Excellent*                                                       |
+| [Weird West: Definitive Edition](https://macgamers.org/games/weird-west-definitive-edition)                                                                                  | [Discuss](https://community.macgamers.org/t/weird-west-definitive-edition-on-macos/422)                                      | Perfect     | **CrossOver** *Perfect*                                                         |
 | [Where Winds Meet](https://macgamers.org/games/where-winds-meet)                                                                                                             | [Discuss](https://community.macgamers.org/t/where-winds-meet-on-macos/347)                                                   | Excellent   | **CrossOver** *Excellent*                                                       |
 | [Whiskerwood](https://macgamers.org/games/whiskerwood)                                                                                                                       | [Discuss](https://community.macgamers.org/t/whiskerwood-on-macos/275)                                                        | Perfect     | **CrossOver** *Perfect*                                                         |
 | [Whisper Mountain Outbreak](https://macgamers.org/games/whisper-mountain-outbreak)                                                                                           | [Discuss](https://community.macgamers.org/t/whisper-mountain-outbreak-on-macos/286)                                          | Perfect     | **CrossOver** *Perfect*<br/>**Parallels** *Excellent*                           |
@@ -338,6 +339,7 @@ forums.
 | [Wreckfest](https://macgamers.org/games/wreckfest)                                                                                                                           | [Discuss](https://community.macgamers.org/t/wreckfest-on-macos/122)                                                          | Excellent   | **CrossOver** *Excellent*                                                       |
 | [Wylde Flowers](https://macgamers.org/games/wylde-flowers)                                                                                                                   | [Discuss](https://community.macgamers.org/t/wylde-flowers-on-macos/289)                                                      | Perfect     | **CrossOver** *Perfect*<br/>**Parallels** *Perfect*                             |
 | [Yooka-Replaylee](https://macgamers.org/games/yooka-replaylee)                                                                                                               | [Discuss](https://community.macgamers.org/t/yooka-replaylee-on-macos/313)                                                    | Excellent   | **CrossOver** *Excellent*<br/>**Parallels** *Good*                              |
+| [Zero Hour](https://macgamers.org/games/zero-hour)                                                                                                                           | [Discuss](https://community.macgamers.org/t/zero-hour-on-macos/421)                                                          | Excellent   | **CrossOver** *Excellent*                                                       |
 | [Zoria: Age of Shattering](https://macgamers.org/games/zoria-age-of-shattering)                                                                                              | [Discuss](https://community.macgamers.org/t/zoria-age-of-shattering-on-macos/376)                                            | Perfect     | **CrossOver** *Perfect*                                                         |
 | [theHunter: Call of the Wild™](https://macgamers.org/games/thehunter-call-of-the-wild)                                                                                       | [Discuss](https://community.macgamers.org/t/thehunter-call-of-the-wild-on-macos/41)                                          | Perfect     | **CrossOver** *Perfect*<br/>**Parallels** *Poor*                                |
 
@@ -351,7 +353,12 @@ forums.
 
 Soon you'll be able to contribute to this list through the [MacGamers.org](https://macgamers.org/) website.
 
-### Community
+### Our Community
 
 Visit the [MacGamers Community](https://community.macgamers.org) to report problems, make suggestions, or discuss
 playing Windows games on your Mac.
+
+### On Steam
+
+This list is also being added to Steam so you can see which games in your wishlist will play on your Mac:
+[Steam Curator](https://store.steampowered.com/curator/46291237-MacGamers.org/).
