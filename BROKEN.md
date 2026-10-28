@@ -30,6 +30,7 @@ reports. Your experience may vary.*
 | [DOOM](https://macgamers.org/games/doom)                                                                              |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [DOOM 64](https://macgamers.org/games/doom-64)                                                                        |        | **CrossOver** *Broken*                            |
 | [DOOMBLADE](https://macgamers.org/games/doomblade)                                                                    |        | **CrossOver** *Broken*                            |
+| [DREADMOOR](https://macgamers.org/games/dreadmoor)                                                                    |        | **CrossOver** *Broken*                            |
 | [Darksiders II Deathinitive Edition](https://macgamers.org/games/darksiders-ii-deathinitive-edition)                  |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [Dead as Disco](https://macgamers.org/games/dead-as-disco)                                                            |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [Dead by Daylight](https://macgamers.org/games/dead-by-daylight)                                                      |        | **CrossOver** *Broken*                            |
@@ -41,6 +42,7 @@ reports. Your experience may vary.*
 | [Dungeon Defenders](https://macgamers.org/games/dungeon-defenders)                                                    |        | **CrossOver** *Broken*                            |
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                                                      |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                                      |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
+| [Elven Huntress: Sunveil](https://macgamers.org/games/elven-huntress-sunveil)                                         |        | **CrossOver** *Broken*                            |
 | [F.E.A.R.](https://macgamers.org/games/fear)                                                                          |        | **CrossOver** *Broken*                            |
 | [F1® 25](https://macgamers.org/games/f1-25)                                                                           |        | **CrossOver** *Broken*                            |
 | [Fallout 2: A Post Nuclear Role Playing Game](https://macgamers.org/games/fallout-2-a-post-nuclear-role-playing-game) |        | **CrossOver** *Broken*                            |
@@ -49,6 +51,7 @@ reports. Your experience may vary.*
 | [Garfield Kart 2 - All You Can Drift](https://macgamers.org/games/garfield-kart-2-all-you-can-drift)                  |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [Ghostwire: Tokyo](https://macgamers.org/games/ghostwire-tokyo)                                                       |        | **CrossOver** *Broken*                            |
 | [God's Trigger](https://macgamers.org/games/gods-trigger)                                                             |        | **CrossOver** *Broken*                            |
+| [Guns of Eschaton](https://macgamers.org/games/guns-of-eschaton)                                                      |        | **CrossOver** *Broken*                            |
 | [Hello Neighbor](https://macgamers.org/games/hello-neighbor)                                                          |        | **CrossOver** *Broken*                            |
 | [Hellslave](https://macgamers.org/games/hellslave)                                                                    |        | **CrossOver** *Broken*                            |
 | [INSIDE](https://macgamers.org/games/inside)                                                                          |        | **CrossOver** *Broken*                            |
@@ -83,6 +86,7 @@ reports. Your experience may vary.*
 | [The Crew Motorfest](https://macgamers.org/games/the-crew-motorfest)                                                  |        | **CrossOver** *Broken*                            |
 | [The Last Caretaker](https://macgamers.org/games/the-last-caretaker)                                                  |        | **CrossOver** *Broken*                            |
 | [There Are No Ghosts at the Grand](https://macgamers.org/games/there-are-no-ghosts-at-the-grand)                      |        | **CrossOver** *Broken*                            |
+| [Tom Clancy's Rainbow Six Siege](https://macgamers.org/games/tom-clancys-rainbow-six-siege)                           |        | **CrossOver** *Broken*                            |
 | [WRC 7 FIA World Rally Championship](https://macgamers.org/games/wrc-7-fia-world-rally-championship)                  |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [Warhammer 40,000: Gladius - Relics of War](https://macgamers.org/games/warhammer-40-000-gladius-relics-of-war)       |        | **CrossOver** *Broken*                            |
 | [Warhammer: Vermintide 2](https://macgamers.org/games/warhammer-vermintide-2)                                         |        | **CrossOver** *Broken*                            |
