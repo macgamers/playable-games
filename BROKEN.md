@@ -42,7 +42,6 @@ reports. Your experience may vary.*
 | [Dungeon Defenders](https://macgamers.org/games/dungeon-defenders)                                                    |        | **CrossOver** *Broken*                            |
 | [Dungeon Siege II](https://macgamers.org/games/dungeon-siege-ii)                                                      |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [Dungeon Stalkers](https://macgamers.org/games/dungeon-stalkers)                                                      |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
-| [Elven Huntress: Sunveil](https://macgamers.org/games/elven-huntress-sunveil)                                         |        | **CrossOver** *Broken*                            |
 | [F.E.A.R.](https://macgamers.org/games/fear)                                                                          |        | **CrossOver** *Broken*                            |
 | [F1® 25](https://macgamers.org/games/f1-25)                                                                           |        | **CrossOver** *Broken*                            |
 | [Fallout 2: A Post Nuclear Role Playing Game](https://macgamers.org/games/fallout-2-a-post-nuclear-role-playing-game) |        | **CrossOver** *Broken*                            |
