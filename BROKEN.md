@@ -59,11 +59,13 @@ reports. Your experience may vary.*
 | [Kingdom Come: Deliverance II](https://macgamers.org/games/kingdom-come-deliverance-ii)                               |        | **CrossOver** *Broken*                            |
 | [LEGO® 2K Drive](https://macgamers.org/games/lego-2k-drive)                                                           |        | **CrossOver** *Broken*                            |
 | [MONSTER HUNTER RISE](https://macgamers.org/games/monster-hunter-rise)                                                |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
+| [MXGP - The Official Motocross Videogame](https://macgamers.org/games/mxgp-the-official-motocross-videogame)          |        | **CrossOver** *Broken*                            |
 | [Marvel's Midnight Suns](https://macgamers.org/games/marvels-midnight-suns)                                           |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [Might & Magic: Heroes VI](https://macgamers.org/games/might-magic-heroes-vi)                                         |        | **CrossOver** *Broken*                            |
 | [Might & Magic® Heroes® VII](https://macgamers.org/games/might-magic-heroes-vii)                                      |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [Monster Hunter Wilds](https://macgamers.org/games/monster-hunter-wilds)                                              |        | **CrossOver** *Broken*                            |
 | [Mortal Shell II](https://macgamers.org/games/mortal-shell-ii)                                                        |        | **CrossOver** *Broken*                            |
+| [MotoGP™15](https://macgamers.org/games/motogp-15)                                                                    |        | **CrossOver** *Broken*                            |
 | [Neon Knight: Vengeance From The Grave](https://macgamers.org/games/neon-knight-vengeance-from-the-grave)             |        | **CrossOver** *Broken*                            |
 | [Nightingale](https://macgamers.org/games/nightingale)                                                                |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
 | [OUTRIDERS](https://macgamers.org/games/outriders)                                                                    |        | **CrossOver** *Broken*                            |
@@ -77,7 +79,6 @@ reports. Your experience may vary.*
 | [Rogue Company](https://macgamers.org/games/rogue-company)                                                            |        | **CrossOver** *Broken*                            |
 | [Rogue Waters](https://macgamers.org/games/rogue-waters)                                                              |        | **CrossOver** *Broken*                            |
 | [Sea of Thieves: 2026 Edition](https://macgamers.org/games/sea-of-thieves-2026-edition)                               |        | **CrossOver** *Broken*<br/>**Parallels** *Broken* |
-| [Shop Titans](https://macgamers.org/games/shop-titans)                                                                |        | **CrossOver** *Broken*                            |
 | [SiN Reloaded](https://macgamers.org/games/sin-reloaded)                                                              |        | **CrossOver** *Broken*                            |
 | [Sker Ritual](https://macgamers.org/games/sker-ritual)                                                                |        | **CrossOver** *Broken*                            |
 | [Street Fighter™ 6](https://macgamers.org/games/street-fighter-6)                                                     |        | **CrossOver** *Broken*                            |
